@@ -1,1 +1,1 @@
-# CS251_Library_Project
+# LibraryLoanSystem_WebApp
