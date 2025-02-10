@@ -7,7 +7,7 @@
 ## Functional Component Design 
 - **Book Search**: Allows users to search for books available in the database (**Roles: Administrator, User**).  
 - **Book Cart**: Enables users to collect books they intend to borrow (**Role: User**).  
-- **Borrowing & Returning System**: Manages the borrowing and returning process, including tracking the status of transactions (**Role: User**).  
+- **Borrowing & Returning System**: Manages the borrowing and returning process, including tracking the status of transactions (**Role: Administrator, User**).  
 - **Book Recommendations**: Suggests popular books based on borrowing statistics (**Role: User**).  
 - **Book Management**: Enables administrators to add and remove books from the system (**Role: Administrator**).
 
